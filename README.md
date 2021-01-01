@@ -15,3 +15,14 @@ The purpose of opening this repository is to be able to practice what I am learn
 
 
 =================================================
+
+## 2 - Simple Authentication with cookies
+
+#### What did I learn in this mini-project?
+1. Private Routes and React Router 
+1. Work with cookies (Js-Cookies) and how login with cookie
+1. Formik Forms and yup validation
+1.Antd Ui Library
+
+
+=================================================
